@@ -21,7 +21,7 @@ I am strongest where **UI and API layers meet**: tracing failures across the sta
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=microsoft&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -54,14 +54,16 @@ _Examples from recent initiatives_
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GopiMaganti-code&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopiMaganti-code&layout=compact&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GopiMaganti-code&theme=radical" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GopiMaganti-code&show_icons=true&theme=radical&hide_border=false" alt="GopiMaganti-code GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopiMaganti-code&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="GopiMaganti-code top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=GopiMaganti-code&theme=radical&hide_border=false" alt="GopiMaganti-code GitHub streak" />
+
+</div>
 
 ---
 
