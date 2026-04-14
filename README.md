@@ -77,8 +77,8 @@ _Examples from recent initiatives_
 
 ## 📫 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gopimaganti/
+- 📧 Email: mailtomagantigopi@gmail.com
 
 ---
 
