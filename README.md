@@ -55,23 +55,31 @@ _Examples from recent initiatives_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GopiMaganti-code&show_icons=true&include_all_commits=true&count_private=true" alt="GopiMaganti-code GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopiMaganti-code&layout=compact&langs_count=8" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GopiMaganti-code&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopiMaganti-code&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GopiMaganti-code&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=GopiMaganti-code&theme=radical" />
 </p>
 
 ---
 
 ## 🚀 Projects I'm Building
 
-- **Playwright Automation Framework** - scalable UI automation with reporting, tagging, and CI-friendly execution _(in progress)_.
-- **API Testing Framework** - Postman/Newman collections, environments, and pipeline hooks for consistent API regression _(in progress)_.
+- 🔹 **Playwright Automation Framework**
+  Building a scalable UI automation framework using POM, fixtures, retry logic, and parallel execution
+
+- 🔹 **API Testing Framework**
+  Designing structured API automation using Postman & Newman with reusable test scenarios and validations
 
 ---
 
 ## 📫 Connect
 
-Reach out on **LinkedIn** or via the contact options on my GitHub profile. I am open to collaboration on **quality engineering**, **test strategy**, and **automation at scale**.
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 📧 Email: yourmail@gmail.com
+
+---
+
+💡 *I focus on building automation systems that improve product quality — not just increase test coverage.*
